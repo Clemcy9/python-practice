@@ -10,7 +10,7 @@ print(toBase10(10000,2))
 
 def from10toAnyBase(num,base):
     # result = num%base
-    result =[num%base]
+    # result =[num%base]
     # print('first res is:',result)
     Stresult = str(result)
     test=num//base
